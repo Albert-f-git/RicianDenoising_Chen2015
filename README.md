@@ -48,7 +48,7 @@ pip install numpy scipy scikit-image matplotlib
 python main.py
 ```
 
-代码会自动加载默认的测试图像（Cameraman），添加 $\sigma=25$ 的 Rician 噪声，运行去噪算法与偏差校正，最终在终端输出 PSNR 与 SSIM 指标，并弹出对比效果图。
+代码会自动加载默认的测试图像（Brain），添加 $\sigma=25$ 的 Rician 噪声，运行去噪算法与偏差校正，最终在终端输出 PSNR 与 SSIM 指标，并弹出对比效果图。
 
 ## 📊 实验结果
 
