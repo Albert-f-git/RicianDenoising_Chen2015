@@ -57,8 +57,8 @@ python main.py
 * **Noisy Image**: PSNR $\approx 20.28$ dB, SSIM $\approx 0.6641$
 * **Restored Image**: PSNR $\approx 26.56$ dB, SSIM $\approx 0.8958$
 
-![实验结果对比图](./results.png)
-*(提示：请在本地运行 `main.py` 后，将生成的对比图截图保存为 `results.png` 并放在项目根目录中，即可在此处显示图片)*
+![实验结果对比图](./result.png)
+
 
 ## 📜 参考文献
 
